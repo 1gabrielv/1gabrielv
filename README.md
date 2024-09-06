@@ -17,7 +17,7 @@
 </p> 
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/devgabrielv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devgabrielv/)
 
 <!-- GithubStats -->
 ![1gabrielv GitHub stats](https://github-readme-stats.vercel.app/api?username=1gabrielv&show_icons=true&theme=midnight-purple)
@@ -53,12 +53,4 @@
     <img align="center" alt="Pandas" width="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
     <img align="center" alt="Selenium" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
           
-  </div>alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-###
+  </div>
