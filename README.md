@@ -1,11 +1,13 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋! My name is Gabriel Vieira and I'm a Developer Lover</h1></summary>
+    <summary><h1 style="display: inline-block">Hello, World!</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
+  Olá, me chamo Gabriel! 
+  
   - Desenvolvedor Back-end.
   - Cursando Sistemas de Informção. 
   - Recentemente me encantei pela área de Dados, a qual tenho dedicado parte dos meus estudos.
