@@ -35,6 +35,7 @@
     <img align="center" alt="C" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
     <img align="center" alt="C#" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
     <img align="center" alt="JavaScript" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
           
           
   </div>
